@@ -8,7 +8,7 @@ module.exports = {
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/digital_clock/'
+    publicPath: '/css_digital_clock/'
   },
   module: {
     rules: [
